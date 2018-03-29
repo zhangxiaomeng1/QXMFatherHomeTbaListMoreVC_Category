@@ -8,19 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		2157B56A29D3359194154A3B8F084FE6 /* XM_Mediator+QXMHomeModule.m in Sources */ = {isa = PBXBuildFile; fileRef = CAC66B7C3315F3886E03D21DA58F98D8 /* XM_Mediator+QXMHomeModule.m */; };
+		21936843265D929DD4605CF898A4F151 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98BA5434CE737E2B885A71B72E27E080 /* UIKit.framework */; };
 		25A32D698A2C4F5511789201526A7C80 /* XM_Mediator.m in Sources */ = {isa = PBXBuildFile; fileRef = 360E61768A91BBC30208CB91328D479C /* XM_Mediator.m */; };
 		47F22741DA57E017BBC8701DFFF8EAE6 /* XM_Mediator+QXMHomeModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A6CCB39F37EBE371127729895D560E2 /* XM_Mediator+QXMHomeModule.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4C982E680F96601E2DE3D2431C279D8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */; };
-		6376710B1738A87DD27B529D3994D55D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */; };
+		6376710B1738A87DD27B529D3994D55D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */; };
 		80B04525C224380CCA58E8AE9F513A38 /* XM_Mediator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6261A169EFFF50EE9DB99F4B59C4D14A /* XM_Mediator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		87026BFBD885AC4BEF5A3260ACA949D3 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A84E0B3C636DCB8E89D7E9DE6C3841 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-dummy.m */; };
 		87AE4EFCC59A2392B6492A78241C79A4 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5631E7151E8B3C324D51553C166A2D40 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-dummy.m */; };
-		A04A02460A04DCB056534F3056C863B5 /* XM_Mediator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C97878EDB882D0DEE4387AF62E130F3D /* XM_Mediator.framework */; };
 		A3148F588660CA71DF6A5EC17C67997D /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C6A0494116013E5D81998F0793DE53BB /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4A0651CEC3952763A05A37E99DFCADC /* QXMFatherHomeTbaListMoreVC_Category-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 262937FB31D5E27E4FA2FFF83A6E2012 /* QXMFatherHomeTbaListMoreVC_Category-dummy.m */; };
-		A586531AE50ABE8C5A4FFD7C53DAF519 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */; };
+		A586531AE50ABE8C5A4FFD7C53DAF519 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */; };
 		B7C9013B92B49190F58318BAD70E7265 /* XM_Mediator.h in Headers */ = {isa = PBXBuildFile; fileRef = 723381A758AA58C3A68A7BB82A50B714 /* XM_Mediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BC5974CE206EAD243FC7E849866A280D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */; };
+		B8BD0C1E114967EF5CD077AE21091723 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */; };
+		B98D6DF86B002D2305A02A3B7782440A /* XM_Mediator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25CAE833E35C5B89568FFFCF431257D3 /* XM_Mediator.framework */; };
+		BC5974CE206EAD243FC7E849866A280D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */; };
 		C20361FE32BC94FAB83152059D239EE0 /* QXMFatherHomeTbaListMoreVC_Category-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0AD91ED946DF919C3F1B2E42A3F575B9 /* QXMFatherHomeTbaListMoreVC_Category-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DCC09663EEB61026B2FF19C7664B0A14 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4228A8FE84A6983A32806459018EA426 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DDF0AD1E80F27A7AE173F30CF3D49FF5 /* XM_Mediator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 142E61214C712B1F34F3D6F04BA25B48 /* XM_Mediator-dummy.m */; };
@@ -59,11 +60,11 @@
 		18A84E0B3C636DCB8E89D7E9DE6C3841 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-dummy.m"; sourceTree = "<group>"; };
 		1E81FD3131D84DD53F996C90AF6E6D79 /* XM_Mediator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XM_Mediator.modulemap; sourceTree = "<group>"; };
 		22A54EDE11DC296AA0AC0AA705181ABA /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		25CAE833E35C5B89568FFFCF431257D3 /* XM_Mediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XM_Mediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		260079DAA642F01F61DBBC53EE62D79C /* QXMFatherHomeTbaListMoreVC_Category.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = QXMFatherHomeTbaListMoreVC_Category.framework; path = QXMFatherHomeTbaListMoreVC_Category.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		262937FB31D5E27E4FA2FFF83A6E2012 /* QXMFatherHomeTbaListMoreVC_Category-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QXMFatherHomeTbaListMoreVC_Category-dummy.m"; sourceTree = "<group>"; };
 		28C07B386DC07E5947191692B13AB361 /* Pods_QXMFatherHomeTbaListMoreVC_Category_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QXMFatherHomeTbaListMoreVC_Category_Tests.framework; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		360E61768A91BBC30208CB91328D479C /* XM_Mediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XM_Mediator.m; path = XM_Mediator/Classes/XM_Mediator.m; sourceTree = "<group>"; };
-		3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		370C2B9546EF373E6DA95CD5A99ED449 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3A6CCB39F37EBE371127729895D560E2 /* XM_Mediator+QXMHomeModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "XM_Mediator+QXMHomeModule.h"; path = "QXMFatherHomeTbaListMoreVC_Category/Classes/XM_Mediator+QXMHomeModule.h"; sourceTree = "<group>"; };
 		3EECC9394F9977703B0BF1A39AED80BC /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -79,13 +80,14 @@
 		8B63B383C0328332C9652A123D48FBCB /* QXMFatherHomeTbaListMoreVC_Category.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QXMFatherHomeTbaListMoreVC_Category.xcconfig; sourceTree = "<group>"; };
 		8CC97B8CF10A1A02AC17EB609613BBB8 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		98BA5434CE737E2B885A71B72E27E080 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		AE100EA23AB94C0BF8EBC7B8D64E9771 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example-frameworks.sh"; sourceTree = "<group>"; };
 		B30F9D531D301235AEF68D6B03432CEB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		BBAB283CC4250F344709D921F4E19215 /* XM_Mediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XM_Mediator-prefix.pch"; sourceTree = "<group>"; };
 		BEBF12D4F4857368DAEF56BB652323B4 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example.modulemap"; sourceTree = "<group>"; };
 		C4E0C0A554256DFAD4A7471716DAA83B /* Pods-QXMFatherHomeTbaListMoreVC_Category_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C6A0494116013E5D81998F0793DE53BB /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests-umbrella.h"; sourceTree = "<group>"; };
-		C97878EDB882D0DEE4387AF62E130F3D /* XM_Mediator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XM_Mediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAC66B7C3315F3886E03D21DA58F98D8 /* XM_Mediator+QXMHomeModule.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XM_Mediator+QXMHomeModule.m"; path = "QXMFatherHomeTbaListMoreVC_Category/Classes/XM_Mediator+QXMHomeModule.m"; sourceTree = "<group>"; };
 		D325D4F28F20A7897FF23B354EBEC8A1 /* XM_Mediator.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XM_Mediator.xcconfig; sourceTree = "<group>"; };
 		D8EDF100882F4415132FC64A7D0A6E37 /* QXMFatherHomeTbaListMoreVC_Category.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = QXMFatherHomeTbaListMoreVC_Category.modulemap; sourceTree = "<group>"; };
@@ -108,12 +110,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		97CE1244A41F506D8A0F2A179DDEBE55 /* Frameworks */ = {
+		DE87DDBA0156C86B997257F75DAA46AB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C982E680F96601E2DE3D2431C279D8A /* Foundation.framework in Frameworks */,
-				A04A02460A04DCB056534F3056C863B5 /* XM_Mediator.framework in Frameworks */,
+				B8BD0C1E114967EF5CD077AE21091723 /* Foundation.framework in Frameworks */,
+				21936843265D929DD4605CF898A4F151 /* UIKit.framework in Frameworks */,
+				B98D6DF86B002D2305A02A3B7782440A /* XM_Mediator.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +139,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1027B2141363CC414B50D9478BCD6C69 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				25CAE833E35C5B89568FFFCF431257D3 /* XM_Mediator.framework */,
+				F72D11221B63DC58A28E6A98C1FB31CC /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		28337B6A4D77CC3A769BC0CFA61449E3 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -237,7 +249,7 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				5523ACC42D9E36B914E5D6F5F93B67FD /* Development Pods */,
-				B793C15DB0725D0229A9AAE43D9B3CC9 /* Frameworks */,
+				1027B2141363CC414B50D9478BCD6C69 /* Frameworks */,
 				D8BB67D01D39A5142A3E7680753E6230 /* Pods */,
 				C045BE531C9F7414DA5D9E078B2D4DE2 /* Products */,
 				30A8693CACAA30837F94D8AE36FC4B33 /* Targets Support Files */,
@@ -262,15 +274,6 @@
 			path = "Target Support Files/Pods-QXMFatherHomeTbaListMoreVC_Category_Tests";
 			sourceTree = "<group>";
 		};
-		B793C15DB0725D0229A9AAE43D9B3CC9 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				C97878EDB882D0DEE4387AF62E130F3D /* XM_Mediator.framework */,
-				DB32B567137CBA3322EB24395B662B43 /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		C045BE531C9F7414DA5D9E078B2D4DE2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -290,10 +293,11 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		DB32B567137CBA3322EB24395B662B43 /* iOS */ = {
+		F72D11221B63DC58A28E6A98C1FB31CC /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				3611FD6578592DB98B3529DE8A8CE547 /* Foundation.framework */,
+				B3952E0240B593FE9F3BC5A864374EC9 /* Foundation.framework */,
+				98BA5434CE737E2B885A71B72E27E080 /* UIKit.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -362,7 +366,7 @@
 			buildConfigurationList = 1A4A8686F6CA2D44B59A10BC24A06505 /* Build configuration list for PBXNativeTarget "QXMFatherHomeTbaListMoreVC_Category" */;
 			buildPhases = (
 				0CD7FF8C5DC064FDB92BBA30871AE762 /* Sources */,
-				97CE1244A41F506D8A0F2A179DDEBE55 /* Frameworks */,
+				DE87DDBA0156C86B997257F75DAA46AB /* Frameworks */,
 				13E1F6CFA87AC477F35970B0BE29F7BF /* Headers */,
 			);
 			buildRules = (

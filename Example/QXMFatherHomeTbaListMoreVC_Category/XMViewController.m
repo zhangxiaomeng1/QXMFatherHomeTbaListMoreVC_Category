@@ -8,6 +8,8 @@
 
 #import "XMViewController.h"
 
+#import "XM_Mediator+QXMHomeModule.h"
+
 @interface XMViewController ()
 
 @end

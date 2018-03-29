@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "QXMFatherHomeTbaListMoreVC_Category.",
   "description": "QXMFatherHomeTbaListMoreVC首页功能分类",
-  "homepage": "https://github.com/zhangxieomeng1/QXMFatherHomeTbaListMoreVC_Category",
+  "homepage": "https://github.com/zhangxiaomeng1/QXMFatherHomeTbaListMoreVC_Category.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,13 +12,17 @@
     "zhangxieomeng1": "zhangxiaomeng@xiangshang360.com"
   },
   "source": {
-    "git": "https://github.com/zhangxieomeng1/QXMFatherHomeTbaListMoreVC_Category.git",
+    "git": "https://github.com/zhangxiaomeng1/QXMFatherHomeTbaListMoreVC_Category.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "QXMFatherHomeTbaListMoreVC_Category/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
   "dependencies": {
     "XM_Mediator": [
       "~> 1.0.0"

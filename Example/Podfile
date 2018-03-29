@@ -6,6 +6,5 @@ target 'QXMFatherHomeTbaListMoreVC_Category_Example' do
   target 'QXMFatherHomeTbaListMoreVC_Category_Tests' do
     inherit! :search_paths
 
-    
   end
 end

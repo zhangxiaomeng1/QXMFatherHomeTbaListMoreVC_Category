@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QXMFatherHomeTbaListMoreVC_Category'
   s.version          = '0.1.0'
-  s.summary          = 'QXMFatherHomeTbaListMoreVC_Category.'
+  s.summary          = 'QXM_Category'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'QXMFatherHomeTbaListMoreVC首页功能分类'
+  s.description      = '首页功能分类'
 
   s.homepage         = 'https://github.com/zhangxiaomeng1/QXMFatherHomeTbaListMoreVC_Category.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -34,8 +34,8 @@ Pod::Spec.new do |s|
   #   'QXMFatherHomeTbaListMoreVC_Category' => ['QXMFatherHomeTbaListMoreVC_Category/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  #s.public_header_files = 'Pod/Classes/**/*.h'
+  s.frameworks = 'UIKit', 'Foundation'
   
   s.dependency 'XM_Mediator', '~> 1.0.0'
   
