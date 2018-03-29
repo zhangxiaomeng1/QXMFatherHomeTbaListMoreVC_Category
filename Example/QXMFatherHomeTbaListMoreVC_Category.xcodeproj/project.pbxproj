@@ -59,14 +59,14 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		693317E7886EDEEEDF838F23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		6ECFE5B23EB9B249F49CD70C /* QXMFatherHomeTbaListMoreVC_Category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = QXMFatherHomeTbaListMoreVC_Category.podspec; path = ../QXMFatherHomeTbaListMoreVC_Category.podspec; sourceTree = "<group>"; };
+		693317E7886EDEEEDF838F23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		6ECFE5B23EB9B249F49CD70C /* QXMFatherHomeTbaListMoreVC_Category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = QXMFatherHomeTbaListMoreVC_Category.podspec; path = ../QXMFatherHomeTbaListMoreVC_Category.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79EEC929505C8DAB7246E796 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-QXMFatherHomeTbaListMoreVC_Category_Tests/Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8CDA66C5219477AEF3DB0B42 /* Pods_QXMFatherHomeTbaListMoreVC_Category_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QXMFatherHomeTbaListMoreVC_Category_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E42255B36D97C10C0BEE9423 /* Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QXMFatherHomeTbaListMoreVC_Category_Tests/Pods-QXMFatherHomeTbaListMoreVC_Category_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		E90CC7E2C56F0D5230657EFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E90CC7E2C56F0D5230657EFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -302,10 +302,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-QXMFatherHomeTbaListMoreVC_Category_Example/Pods-QXMFatherHomeTbaListMoreVC_Category_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/QXMFatherHomeTbaListMoreVC_Category/QXMFatherHomeTbaListMoreVC_Category.framework",
+				"${BUILT_PRODUCTS_DIR}/XM_Mediator/XM_Mediator.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/QXMFatherHomeTbaListMoreVC_Category.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XM_Mediator.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

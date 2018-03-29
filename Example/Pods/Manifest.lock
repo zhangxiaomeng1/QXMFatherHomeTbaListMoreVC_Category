@@ -1,0 +1,23 @@
+PODS:
+  - QXMFatherHomeTbaListMoreVC_Category (0.1.0):
+    - XM_Mediator (~> 1.0.0)
+  - XM_Mediator (1.0.0)
+
+DEPENDENCIES:
+  - QXMFatherHomeTbaListMoreVC_Category (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - XM_Mediator
+
+EXTERNAL SOURCES:
+  QXMFatherHomeTbaListMoreVC_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QXMFatherHomeTbaListMoreVC_Category: 04fb9f51bf7f2f027a398f57ed2dbdbd26a588a9
+  XM_Mediator: 6d074c1c173a1cc07bc834cc51ea0d7f2f69e6d5
+
+PODFILE CHECKSUM: cfd6126ea40174df79fa7e81cf8932bd79358acb
+
+COCOAPODS: 1.5.0.beta.1
