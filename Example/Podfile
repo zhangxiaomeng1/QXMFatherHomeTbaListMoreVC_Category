@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QXMFatherHomeTbaListMoreVC_Category_Example' do
+  pod 'QXMFatherHomeTbaListMoreVC_Category', :path => '../'
+
+  target 'QXMFatherHomeTbaListMoreVC_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
